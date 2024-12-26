@@ -2,7 +2,7 @@
 ## I'm Jamie
 
 ### 💻 About Me 
-- Analyst with over 5 years of experience in consulting, specialising in Internal Audit and Data Analytics. 
+- 👩🏻‍💻 Analyst with over 5 years of experience in consulting, specialising in Internal Audit and Data Analytics. 
 - 🩷 Passionate about utilizing data to solve problems and making data-driven business decisions to help organisations enhance operational efficiency and strategic growth.
 
 
